@@ -28,5 +28,9 @@
   <Developer>Lucchetto</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
+  <Changelog>### Changelog:
+    * Better idle consumptions
+    * Flash magisk after update !
+</Changelog>  
 </ROM>
 
