@@ -29,7 +29,9 @@
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
   <Changelog>### Changelog:
-    * Better idle consumptions
+    * Reduced battery consumptions
+    * Switched to LeanLauncher, much more customizable than Pixel Launcher
+    * Now you can see charger stats in lockscreen
     * Flash magisk after update !
 </Changelog>  
 </ROM>
