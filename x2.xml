@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>RevengeOS</RomName>
-  <VersionName>20180518</VersionName>
+  <VersionName>20180519</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20180518</VersionNumber>
+  <VersionNumber type="integer">20180519</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://master.dl.sourceforge.net/project/revengeos/x2/revengeos-1.1.0-x2-18052018.zip]]></DirectUrl>
+  <DirectUrl><![CDATA[https://master.dl.sourceforge.net/project/revengeos/x2/revengeos-1.1.0-x2-18052019.zip]]></DirectUrl>
   <!-- What version are you issuing? -->
   <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,7 +22,7 @@
   <CheckMD5 nil="false" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">998271182</FileSize>
+  <FileSize type="integer">1090874694</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>Lucchetto</Developer>
