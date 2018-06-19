@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>RevengeOS</RomName>
-  <VersionName>20180613</VersionName>
+  <VersionName>20180617</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20180613</VersionNumber>
+  <VersionNumber type="integer">20180617</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <DirectUrl><![CDATA[https://iweb.dl.sourceforge.net/project/revengeos/x2/revengeos_x2-ota-85da08b3eb.zip]]></DirectUrl>
+  <DirectUrl><![CDATA[https://datapacket.dl.sourceforge.net/project/revengeos/x2/revengeos_x2-ota-3b0b5fee23.zip]]></DirectUrl>
   <!-- What version are you issuing? -->
   <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,20 +22,15 @@
   <CheckMD5 nil="false" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">985355081</FileSize>
+  <FileSize type="integer">986268434</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>Lucchetto</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
   <Changelog>### Changelog:
-    * The colorful update
-    * Security patches updated to June
-    * Trust mode, keep you phone at safe
-    * Updated apps
-    * Better accent color
-    * Rethemed Recorder app, now it looks fresh and cool
-    * Kernel updated to 3.18.113
+    * Now you can disable Trust notifications
+    * Fixed battery drain for some devices
     * Flash magisk after update !
 </Changelog>  
 </ROM>
